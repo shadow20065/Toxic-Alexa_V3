@@ -25,12 +25,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "Shadow Mihiruk"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "94766969406"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -65,12 +65,12 @@
 		"BOT_NAME": {
 			"description": "Enter Your Bot Name",
 			"required": true,
-			"value": "Toxic-Alexa_V3"
+			"value": "Toxic-Alexa_V3 By Shadow"
 		},
 		"PACKNAME": {
 			"description": "Enter Your Name For Sticker Package Name",
 			"required": true,
-			"value": "Turbo Mods"
+			"value": "King Shadow"
 		},
 		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
@@ -80,12 +80,12 @@
 		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
-			"value": "🇮🇳"
+			"value": "🇰🇷"
 		},
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "916380260672"
+			"value": "94761091578"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
